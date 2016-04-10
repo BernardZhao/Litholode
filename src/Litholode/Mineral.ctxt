@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ d\ v\ h
+comment0.target=Mineral(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getValue()
+numComments=2
